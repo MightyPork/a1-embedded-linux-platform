@@ -24,4 +24,5 @@
   <project remote="github" name="freescale/meta-freescale" path="sources/meta-freescale"/>
   <project remote="github" name="UpdateHub/meta-updatehub" path="sources/meta-updatehub"/>
   <project remote="oe" name="meta-openembedded" path="sources/meta-openembedded"/>
+  <project remote="github" name="rust-embedded/meta-rust-bin" path="sources/meta-rust-bin" revision="b97048b5542878296cefe98671c80c1fcaad752e"/>
 </manifest>
